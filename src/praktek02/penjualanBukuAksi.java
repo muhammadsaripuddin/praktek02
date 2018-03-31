@@ -11,9 +11,11 @@ package praktek02;
  */
 public class penjualanBukuAksi {
     public static void main(String[] args) {
-        PenjualanBuku pB1 = new PenjualanBuku();
-        PB1.PenjualanBuku1 =1;
-        PB2.PenjualanBuku2 =2:
+        penjualanbuku pb1 = new penjualanbuku();
+        PB1.PenjualanBuku1 = 1;
+        PB2.PenjualanBuku2 = 2:
+        
+        pb1.cetakinfo
         
     }
 }
