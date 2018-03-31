@@ -10,5 +10,7 @@ package praktek02;
  * @author Ndunh
  */
 public class penjualanBukuAksi {
-    
+    public static void main(String[] args) {
+        
+    }
 }
