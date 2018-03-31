@@ -16,7 +16,12 @@ public class penjualanBukuAksi {
         PB2.PenjualanBuku2 = 2:
         
         pb1.cetakinfo();
-        System.out.println("penjualanbuku = "+pb1.hitungjumlah());
+        System.out.println("penjualanbuku = "+pb1.hitungjumlah);
+         
+        penjualanbuku2 pb2 = new penjualanbuku();
+        pb2.cetakinfo();
         
+        penjualanbuku3 pb3 = new penjualanbuku(10,20);
+        pb3.cetakinfo();
     }
 }

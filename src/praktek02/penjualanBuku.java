@@ -10,6 +10,12 @@ public class penjualanBuku {
         hargajual: 20000;
         hargabuku: 15000;
     }
+
+    public penjualanBuku(int hargaJual, int hargaBuku, int jumlah) {
+        this.hargaJual = hargaJual;
+        this.hargaBuku = hargaBuku;
+        this.jumlah = jumlah;
+    }
     
     void cetakinfo(){
         System.out.println("hargaJual :"+hargaJual);
