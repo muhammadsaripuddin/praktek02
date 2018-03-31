@@ -5,6 +5,11 @@ public class penjualanBuku {
     int hargaJual;
     int hargaBuku;
     int jumlah;
+
+    public penjualanBuku() {
+        hargajual: 20000;
+        hargabuku: 15000;
+    }
     
     void cetakinfo(){
         System.out.println("hargaJual :"+hargaJual);
