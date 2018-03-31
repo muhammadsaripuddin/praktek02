@@ -16,5 +16,9 @@ public class penjualanBuku {
         return jumlah;
         
     }
+    void cetakpenjualanbuku(){
+        System.out.println("harganya adalah : "+jumlah());
+        pb1.cetakjumlah;
+    }
     
 }
